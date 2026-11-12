@@ -1,10 +1,10 @@
-// Week - 1 Stack Program (PUSH, POP, DISPLAY)
+
 
 #include <stdio.h>
 #define MAX 5  // Maximum number of elements in the stack
 
 int stack[MAX];
-int top = -1;  // Initially, the stack is empty
+int top = -1;  
 
 // Function to add an element to the stack
 void push()
